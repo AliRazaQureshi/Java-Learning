@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\learning-java\Todo app\.metadata\.plugins\org.eclipse.jdt.core
+1171770053.index
+1642175237.index
